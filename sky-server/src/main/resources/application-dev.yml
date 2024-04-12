@@ -7,6 +7,11 @@ sky:
     username: root
     password: 123456
 
+  alioss:
+    endpoint: oss-cn-beijing.aliyuncs.com
+    access-key-id:
+    access-key-secret:
+    bucket-name: sky-itcastwdy
 
   redis:
       host: localhost
